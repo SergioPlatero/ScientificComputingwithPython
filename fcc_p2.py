@@ -142,14 +142,3 @@ def add_time(start_time, duration, opt = ""):
 
 
     return new_time
-
-    
-        
-print(add_time("9:15 PM", "5:30"))
-
-
-
-
-
-
-
