@@ -106,8 +106,5 @@ def arithmetic_arranger(problems, optional = False):
         
     return arranged_problems
 
+# The following is a test
 print(arithmetic_arranger(["3 + 855", "3801 - 2", "45 + 43", "123 + 49"], True))
-
-
-
-
