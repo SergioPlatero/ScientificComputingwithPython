@@ -98,7 +98,7 @@ class Square(Rectangle):
 
     
 
-
+# The following lines are a series of tests
 rect = Rectangle(10, 5)
 print(rect.get_area())
 rect.set_height(3)
